@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayaprakashponnala
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and BackEnd 
 - 🌱 I’m currently learning Competitive Programming
 - 📫 How to reach me jayaprakashponnala13@gmail.com
 
