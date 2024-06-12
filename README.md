@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm passionate about programming and creating robust applications. My expertise lies in Java, C, JavaScript, and I enjoy building efficient backend systems with Node.js and Express.js. On the frontend, I specialize in HTML5, CSS3, and React to deliver engaging user interfaces. Additionally, I have experience with databases like SQL, MySQL, and Oracle, ensuring data integrity and performance. I also proficiently use Git for version control and collaborative projects.
+I'm passionate about building robust applications and creating seamless user experiences. My main focus is on frontend and backend development, leveraging technologies like Java, Node.js, Express.js, HTML5, CSS3, and React. Outside of coding, I love exploring new destinations through traveling and indulging in movie marathons.
 
 ## Skills
 
