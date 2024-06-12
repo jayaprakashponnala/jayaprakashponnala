@@ -18,7 +18,7 @@ I'm passionate about building robust applications and creating seamless user exp
 
 ## Connect with Me
 
-- LinkedIn: [Jayaprakash Ponnala](https://www.linkedin.com/in/jayaprakashponnala/)
+- LinkedIn: [Jayaprakash Ponnala](https://www.linkedin.com/in/jayaprakashponnalaa/)
 - GitHub: [@jayaprakashponnala](https://github.com/jayaprakashponnala)
 - Email: jayaprakashponnala13@gmail.com  
 
